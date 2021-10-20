@@ -16,4 +16,7 @@ việc tìm kiếm x trên nửa bến trái (hoặc bên phải) của Kg đư�
 
 ![image](https://user-images.githubusercontent.com/72289126/138104526-f55338bd-8418-4868-b997-71c8b15fc900.png)
 
+![image](https://user-images.githubusercontent.com/72289126/138104694-2712c9cd-c2c1-4ce8-8dca-16141e699ea0.png)
+
+
 
