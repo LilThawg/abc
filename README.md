@@ -52,3 +52,4 @@ Câu 25: Duyệt cây thứ tự sau
 Câu 26: ưu nhược các phương pháp sắp xếp	
 
 
+https://drive.google.com/drive/folders/1i-JgP8GmB2Xp7QlKCxybrgM4ekeheEiD
