@@ -1,8 +1,3 @@
-Câu 7: Trình bày cách phân tích thời gian thực hiện giải thuật
+![image](https://user-images.githubusercontent.com/72289126/148566984-95989d50-e4b7-42f3-8ec7-164f34ebcc00.png)
 
-Cách thiết kế giải thuật theo kiểu top-down như trên giúp cho việc gải quyết bài toán được  định hướng rõ ràng , tránh sa đà ngay vào các chi tiết phụ. Nó cũng là các nền tảng cho việc lập trình có cấu trúc.
-
-Thông thường, đối với các bài toán lớn, việc giải quyết nó phải do nhiều người cùng làm . Chính phương pháp mô đun hóa sẽ cho phép tách bài toán ra thành các phần độc lập, tạo điều kiện cho các nhóm giải quyết phần việc của mình mà không ảnh hưởng gì đến nhóm khác. Với chương trình được xây dựng trên cơ sở của các giải thuật được thiết kế theo cách này , thì việc tìm hiểu cũng như sửa chữa, chỉnh lí sẽ đơn giản hơn.
-
-Trong thực tế, việc phân tích bài toán thành các bài toán con như thế không phải là việc dễ dàng. Chính vì vậy mà có những bài toán, nhiệm vụ phân tích và thiết kế giải thuật giải bài toán còn mất nhiều thời gian và công sức hơn cả nhiệm vụ lập trình.
-
+![image](https://user-images.githubusercontent.com/72289126/148567036-e8e7cd63-ae84-4a9d-8cd8-bde85ed3aa25.png)
