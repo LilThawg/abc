@@ -1,56 +1,67 @@
-Mục lục
+# MỤC LỤC
+Câu 1 : Thế nào là mô hình an toàn? Có mấy loại? Cho ví dụ. Sự khác nhau giữa mô hình an toàn và chính sách an toàn
 
-Câu 1: Trình bày mối quan hệ giữa cấu trúc dữ liệu và giải thuật. Cho ví dụ minh họa
+Câu 2: Nêu đặc điểm của mô hình Bell-Lapadula. Mô hình này thường áp dụng cho những loại dữ liệu nào? 
 
-Câu 2: Cấu trúc dữ liệu và phép toán
+Câu 3: Nêu định nghĩa về ngôn ngữ DDL và ngôn ngữ DML. Cho ví dụ?
 
-Câu 3: Trình bày sự khác nhau của cấu trúc dữ liệu và cấu trúc lưu trữ, cho vd minh họa?	
+Câu 4: Thế nào là thống kê nhạy cảm với một cơ sở dữ liệu thống kê? Cho ví dụ. Working knowledge và sumplementary knowledge?
 
-Câu 4: Trình bày những đặc điểm về cấu trúc trong các ngôn ngữ lt bậc cao, có liên hệ với ngôn ngữ C	
+Câu 5: Tại sao phải bảo vệ cơ sở dữ liệu? Nêu một số hiểm họa tấn công CSDL
 
-Câu 5 : Phương pháp thiết kế Top_Down	
+Câu 6: Phân biệt các khái niệm và thuật ngữ sau : DBMS, SQL, PL/SQL, SQL Server, My SQL
 
-Câu 6: Phương pháp tinh chỉnh từng bước ( stepwise refinement)	
+Câu 7: Trình bày mô hình system – R. Đặc biệt chú ý vấn đề thu hồi quyền đệ quy và không đệ quy.
 
-Câu 7: Trình bày cách phân tích thời gian thực hiện giải thuật	
+Câu 8: Cơ sở dữ liệu thống kê là gì? Phân biệt cơ sở dữ liệu thống kê với cơ sở dữ liệu thường? 
 
-Câu 8. Trình bày cách Xác định độ phức tạp tính toán của giải thuật, với những nội dung: Qui tắc tổng, phép toán tích cực, thời gian chạy của các câu lệnh lặp, cho ví dụ minh họa.
-Câu 9 : Trình bày ( bằng ngôn ngữ tựa C ) giải thuật bổ sung một nút mới có chứa dữ liệu X vào trước  nút con trỏ bởi Q trong danh sách móc nối hai chiều với : Pdau trỏ và phần tử đầu, Pcuoi trỏ vào phần tử cuối, mỗi nút có cấu trúc như sau
+Câu 9: Vẽ sơ đồ mối quan hệ giữa các mô hình RBAC? Giải thích
 
-Câu 10 : Trình bày ( bằng ngôn ngữ tựa C ) giải thuật loại bỏ một nút trỏ bởi Q trong danh sách móc nối hai chiều với : Pdau chỉ vào phần tử đầu, Pcuoi chỉ vào phần tử cuối, mỗi nút có cấu trúc như sau
+Câu 10: Một số phương pháp đảm bảo tính toàn vẹn dữ liệu (được tích hợp sẵn trong các DBMS)
 
-Câu 11: Trình bày bằng ngôn ngữ tựa C giải thuật cộng 2 đa thức  C = A + B. Các phần tử của mỗi đa thức có cấu trúc như sau	
+Câu 11: Mô hình an toàn là gì? Thế nào là hệ thống Multi-level Security? Hai chính sách MAC và DAC có dùng cho hệ thống Multi-level không? 
 
-Câu 12: Trình bày ( bằng ngôn ngữ tựa C ) giải thuật định giá biểu thực hậu tố bằng cách dùng stack
+Câu 12: Những vấn đề cần giải quyết khi mã hóa CSDL
 
-Câu 13: chuyển đổi biểu thức trung tố sang hậu tố	
+Câu 13 : Hãy mô tả phương pháp kiểm soát dựa vào hạn chế kích cỡ tập truy vấn của một cơ sở dữ liệu thống kê, cho ví dụ.(q(C), X(C), |X(C)|)
 
-Câu 14: Trình bày (nn tựa C) giải thuật duyệt cây theo thứ tự trước, ko đệ quy, dùng stack	
+Câu 14 : Có mấy giao đoạn để hoàn tất một giao dịch? Giả sử có một giao dịch (transaction) như sau
 
-Câu 15: Trình bày giải thuật duyệt cây theo thứ tự giữa bằng giải thuật ko đệ quy có sử dụng stack	
+Câu 15: Trình bày những lớp người dùng chính của một hệ thống ATCSDL, và vai trò của họ ?
 
-Câu 16: Tìm kiếm nhị fân	
+Câu 16: Mô tả kiến trúc Integrity Lock, nó được dùng cho DBMS nào? Tại sao gọi kiến trúc này là khóa toàn vẹn?
+Câu 17: Hãy nêu một số phương pháp có thể áp dụng để bảo mật cơ sở dữ liệu trong hệ quản trị Oracle 
 
-Câu 17: kiểm tra xem T có phải là "cây nhị phân tìm kiếm" hay ko	
+Câu 18: Nêu ví dụ về đặc quyền hệ thống (system prilvilege) và đặc quyền đối tượng (object privilega). Viết câu lệnh SQL cho các ví dụ đó. Nêu sự khác nhau giữa admin option và grant option. Ví dụ các câu lệnh SQL.
 
-Câu 18: Tìm kiếm có bổ sung trên cây nhị fân	
+Câu 19: Mô tả chính sách DAC, trong DAC ai là người có thẩm quyền cao nhất để trao quyền trên một đối tượng cơ sở dữ liệu? 
 
-Câu 19: loại bỏ 1 nút có giá trị X trên cây nhị phân tìm kiếm.	
+Câu 20: Mô tả các mô hình xử lý CSDL (vẽ hình minh họa), lưu ý trong từng mô hình, dữ liệu nằm ở đâu?
 
-Câu 20: sắp xếp nhanh ( Phân đoạn) Quick sort	
+Câu 21 : Địa chỉ rào là gì. Ưu- nhược điểm
 
-Câu 21: sắp xếp vun đống (Heapsort)	
+Câu 22 : Tái định vị? Tái định vị động – tĩnh có thể thực hiện trong những thời điểm nào
 
-Câu 22: Sắp xếp hòa nhập (Merge-sort)	
+Câu 23: So sánh phương pháp kiểm soát dựa vào hạn chế và phương pháp dựa vào gây nhiễu trong cơ sở dữ liệu thống kê 
 
-Câu 23: Quân hậu	
+Câu 24 : Tìm hiểu những vấn đề cần thiết khi mã hóa CSDL (vấn đề mã hóa ở đâu, bảo vệ khóa, phân phối khóa như thế nào)
 
-Câu 24: giai thừa	
+Câu 25: Thực hiện các thiết kế an toàn. Các bước để thiết kế cơ sở dữ liệu (mô tả)
 
-Câu 25: Duyệt cây thứ tự sau	
+Câu 26: Trình bày các yêu cầu bảo vệ CSDL 
 
-Câu 26: ưu nhược các phương pháp sắp xếp	
+Câu 27: Nêu rõ đặc điểm của kiểm soát truy nhập MAC và DAC trong CSDL, nêu sự khác nhau giữa chúng. Ứng dụng 2 chính sách này trong thực tế các hệ quản trị như thế nào?
 
+Câu 28: Nêu đặc điểm cơ bản về Tấn công dựa vào Trình theo dõi (trình bày được ý tưởng của 2 kiểu tấn công này) , và tấn công dựa vào Hệ tuyến tính,ví dụ. 
 
-https://drive.google.com/drive/folders/1i-JgP8GmB2Xp7QlKCxybrgM4ekeheEiD
+Câu 29: Tìm hiểu các kỹ thuật chống suy diễn trong CSDL thống kê, nêu ưu nhược điểm của từng phương pháp. (Chú ý tìm hiểu kỹ các kiểm soát này)
 
+Câu 30 : Trình bày việc gán và thu hồi quyền trong MAC, DAC.
+
+Câu 31 : Tìm hiểu kỹ thuật SQL Injection
+
+Câu 32 : So sánh hệ thống HIDS(máy trạm) và NIDS(mạng)
+
+Câu 33 :Trình bày 2 mô hình phát hiện xâm nhập trong IDS. Nêu ưu-nhược điểm từng mô hình. Cho ví dụ.
+
+Câu 34 : Tìm hiểu 2 cơ chế phân trang, phân đoạn và so sánh (vẽ hình) . Thế nào là phân mảnh nội vi, phân mảnh ngoại vi. Ví dụ
