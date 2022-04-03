@@ -59,3 +59,21 @@
 29.	Mục đích của việc thiết kế lớp là gì? Các lớp được làm mịn trong Thiết kế hướng đối tượng bằng cách nào?	20
 
 30.	Trình bày sự khác nhau giữa tiến trình (process) và luồng (thread), thao tác (operation) và phương thức (method)?	21
+
+31. Trình bày các khái niệm trong hướng đối tượng: lớp, đối  tượng, gói, thành phần, kế thừa. Cho ví dụ?
+
+32. Phân biệt mô hình tĩnh và mô hình động trong UML?
+
+33. Khái niệm kế thừa trong lập trình hướng đối tượng có tương đương với quan hệ khái quát hoá giữa các lớp trong UML không? Tại sao?
+
+34. Biểu đồ ca sử dụng (use case) là gì? Vai trò của biều đồ ca sử dụng trong xác định yêu cầu khách hàng?
+
+35. Biểu đồ trạng thái là gì? Mục đích của biểu đồ trạng thái?
+
+36. Phân biệt sự khác nhau giữa biểu đồ trạng thái cho một ca sử dụng và biểu đồ trạng thái hệ thống
+
+37. Biểu đồ hoạt động dùng để làm gì?
+
+38. Ý nghĩa của biểu đồ tương tác?
+
+39. Phân biệt các kiểu lớp: lớp thực thể, lớp biên, lớp điều khiển và lớp trừu tượng?
