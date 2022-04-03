@@ -1,67 +1,61 @@
-# MỤC LỤC
-Câu 1 : Thế nào là mô hình an toàn? Có mấy loại? Cho ví dụ. Sự khác nhau giữa mô hình an toàn và chính sách an toàn
+# Mục Lục
 
-Câu 2: Nêu đặc điểm của mô hình Bell-Lapadula. Mô hình này thường áp dụng cho những loại dữ liệu nào? 
+1.	Hệ thống thông tin là gì? Có những loại hệ thống thông tin nào?	3
 
-Câu 3: Nêu định nghĩa về ngôn ngữ DDL và ngôn ngữ DML. Cho ví dụ?
+2.	So sánh ưu và nhược điểm của hai phương pháp luận: PTPM hướng cấu trúc và PTPM hướng đối tượng?	3
 
-Câu 4: Thế nào là thống kê nhạy cảm với một cơ sở dữ liệu thống kê? Cho ví dụ. Working knowledge và sumplementary knowledge?
+3.	Trình bày ngắn gọn về quy trình phát triển RUP? Nêu ưu và nhược điểm của mô hình phát triển này?	4
 
-Câu 5: Tại sao phải bảo vệ cơ sở dữ liệu? Nêu một số hiểm họa tấn công CSDL
+4.  Trình bày các mục đích sử dụng khác nhau của ngôn ngữ mô hình hoá UML? Nêu các phần tử mô hình trong UML?	5
 
-Câu 6: Phân biệt các khái niệm và thuật ngữ sau : DBMS, SQL, PL/SQL, SQL Server, My SQL
+5.	Trình bày ý nghĩa và mục đích sd của các loại biểu đồ trong ngôn ngữ mô hình hoá UML? Cơ sở nào để xác định được các loại biểu đồ đó?	6
 
-Câu 7: Trình bày mô hình system – R. Đặc biệt chú ý vấn đề thu hồi quyền đệ quy và không đệ quy.
+6.	Trình bày nội dung và ý nghĩa của các khung nhìn trong ngôn ngữ mô hình hoá UML (khung nhìn tĩnh, khung nhìn thiết kế, khung nhìn ca sử dụng, khung nhìn máy trạng thái, khung nhìn hoạt động, khung nhìn tương tác, khung nhìn triển khai, khung nhìn quản lý mô hình?	7
 
-Câu 8: Cơ sở dữ liệu thống kê là gì? Phân biệt cơ sở dữ liệu thống kê với cơ sở dữ liệu thường? 
+7.	Nêu một số vấn đề trong phát triển phần mềm hướng đối tượng? Trình bày nội dung của bộ kinh nghiệm thực tiễn để có phần mềm chất lượng tốt?	8
 
-Câu 9: Vẽ sơ đồ mối quan hệ giữa các mô hình RBAC? Giải thích
+8.	Mục đích của hoạt động mô hình hoá nghiệp vụ là gì? VD?	10
 
-Câu 10: Một số phương pháp đảm bảo tính toàn vẹn dữ liệu (được tích hợp sẵn trong các DBMS)
+9.	Mô hình miền là gì? Ý nghĩa và mục đích sd của mô hình miền?	10
 
-Câu 11: Mô hình an toàn là gì? Thế nào là hệ thống Multi-level Security? Hai chính sách MAC và DAC có dùng cho hệ thống Multi-level không? 
+10.	Đặc tả bổ sung là gì? Trình bày nội dung và ý nghĩa của đặc tả bổ sung?	11
 
-Câu 12: Những vấn đề cần giải quyết khi mã hóa CSDL
+11.	Từ điển thuật ngữ là gì? Nêu nội dung và ý nghĩa của từ điển thuật ngữ?	12
 
-Câu 13 : Hãy mô tả phương pháp kiểm soát dựa vào hạn chế kích cỡ tập truy vấn của một cơ sở dữ liệu thống kê, cho ví dụ.(q(C), X(C), |X(C)|)
+12.	Mục đích của việc xác định yêu cầu là gì? Nêu vai trò của biểu đồ ca sử dụng trong việc xác định yêu cầu khách hàng?	12
 
-Câu 14 : Có mấy giao đoạn để hoàn tất một giao dịch? Giả sử có một giao dịch (transaction) như sau
+13.	Trình bày sự khác nhau giữa một ca sử dụng và một kịch bản?	13
 
-Câu 15: Trình bày những lớp người dùng chính của một hệ thống ATCSDL, và vai trò của họ ?
+14.	Mục đích của hoạt động phân tích và thiết kế là gì? Đầu vào và đầu ra cho hoạt động phân tích và thiết kế là gì?	13
 
-Câu 16: Mô tả kiến trúc Integrity Lock, nó được dùng cho DBMS nào? Tại sao gọi kiến trúc này là khóa toàn vẹn?
-Câu 17: Hãy nêu một số phương pháp có thể áp dụng để bảo mật cơ sở dữ liệu trong hệ quản trị Oracle 
+15.	Kiến trúc phần mềm là gì? Trình bày ngắn gọn về kiến trúc khung nhìn “4+1”?	13
 
-Câu 18: Nêu ví dụ về đặc quyền hệ thống (system prilvilege) và đặc quyền đối tượng (object privilega). Viết câu lệnh SQL cho các ví dụ đó. Nêu sự khác nhau giữa admin option và grant option. Ví dụ các câu lệnh SQL.
+16.	Trình bày vai trò của pha phân tích? Nêu các bước trong Phân tích hướng đối tượng?	14
 
-Câu 19: Mô tả chính sách DAC, trong DAC ai là người có thẩm quyền cao nhất để trao quyền trên một đối tượng cơ sở dữ liệu? 
+17.	Mục đích của hoạt động phân tích kiến trúc là gì?	14
 
-Câu 20: Mô tả các mô hình xử lý CSDL (vẽ hình minh họa), lưu ý trong từng mô hình, dữ liệu nằm ở đâu?
+18.	Cơ chế phân tích là gì? Cho ví dụ?	15
 
-Câu 21 : Địa chỉ rào là gì. Ưu- nhược điểm
+19.	Mục đích của hoạt động phân tích ca sử dụng là gì?	15
 
-Câu 22 : Tái định vị? Tái định vị động – tĩnh có thể thực hiện trong những thời điểm nào
+20.	Lớp phân tích là gì? Nêu các kiểu mở rộng (stereotypes) của lớp phân tích? Trình bày vai trò và cách xác định các kiểu lớp: Lớp biên, lớp điều khiển, lớp thực thể?	15
 
-Câu 23: So sánh phương pháp kiểm soát dựa vào hạn chế và phương pháp dựa vào gây nhiễu trong cơ sở dữ liệu thống kê 
+21.	Các biểu đồ tương tác được tạo ra như thế nào trong hoạt động phân tích ca sử dụng? Phân biệt biểu đồ tuần tự và biểu đồ cộng tác?	16
 
-Câu 24 : Tìm hiểu những vấn đề cần thiết khi mã hóa CSDL (vấn đề mã hóa ở đâu, bảo vệ khóa, phân phối khóa như thế nào)
+22.	Phân biệt hai quan hệ include và extend trong biểu đồ UC?	17
 
-Câu 25: Thực hiện các thiết kế an toàn. Các bước để thiết kế cơ sở dữ liệu (mô tả)
+23.	Phân biệt các dạng quan hệ trong biểu đồ lớp: Association, Generalization, Aggregation, Composition, Dependency?	17
 
-Câu 26: Trình bày các yêu cầu bảo vệ CSDL 
+24.	Trình bày vai trò của pha thiết kế? Nêu các bước trong Thiết kế hướng đối tượng?	18
 
-Câu 27: Nêu rõ đặc điểm của kiểm soát truy nhập MAC và DAC trong CSDL, nêu sự khác nhau giữa chúng. Ứng dụng 2 chính sách này trong thực tế các hệ quản trị như thế nào?
+25.	Mục đích của việc xác định các phần tử thiết kế là gì?	19
 
-Câu 28: Nêu đặc điểm cơ bản về Tấn công dựa vào Trình theo dõi (trình bày được ý tưởng của 2 kiểu tấn công này) , và tấn công dựa vào Hệ tuyến tính,ví dụ. 
+26.	Hệ thống con là gì? Phân biệt hệ thống con và gói? Trình bày mục đích sử dụng và cách xác định các hệ thống con?	19
 
-Câu 29: Tìm hiểu các kỹ thuật chống suy diễn trong CSDL thống kê, nêu ưu nhược điểm của từng phương pháp. (Chú ý tìm hiểu kỹ các kiểm soát này)
+27.	Cơ chế phân tích trong thiết kế hướng đối tượng dùng để làm gì? Tại sao cần phân loại các cơ chế phân tích? (Câu này chịu)	20
 
-Câu 30 : Trình bày việc gán và thu hồi quyền trong MAC, DAC.
+28.	Mục đích của việc thiết kế ca sử dụng là gì?	20
 
-Câu 31 : Tìm hiểu kỹ thuật SQL Injection
+29.	Mục đích của việc thiết kế lớp là gì? Các lớp được làm mịn trong Thiết kế hướng đối tượng bằng cách nào?	20
 
-Câu 32 : So sánh hệ thống HIDS(máy trạm) và NIDS(mạng)
-
-Câu 33 :Trình bày 2 mô hình phát hiện xâm nhập trong IDS. Nêu ưu-nhược điểm từng mô hình. Cho ví dụ.
-
-Câu 34 : Tìm hiểu 2 cơ chế phân trang, phân đoạn và so sánh (vẽ hình) . Thế nào là phân mảnh nội vi, phân mảnh ngoại vi. Ví dụ
+30.	Trình bày sự khác nhau giữa tiến trình (process) và luồng (thread), thao tác (operation) và phương thức (method)?	21
